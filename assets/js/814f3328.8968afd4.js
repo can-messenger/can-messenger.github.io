@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcan_messenger_docs=self.webpackChunkcan_messenger_docs||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Docs site initialized","permalink":"/blog/docs-site-initialized","unlisted":false,"date":"2026-02-23T00:00:00.000Z"}]}')}}]);

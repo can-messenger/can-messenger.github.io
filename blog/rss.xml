@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Can Messenger Blog</title>
+        <link>https://can-messenger.github.io/blog</link>
+        <description>Can Messenger Blog</description>
+        <lastBuildDate>Mon, 23 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Docs site initialized]]></title>
+            <link>https://can-messenger.github.io/blog/docs-site-initialized</link>
+            <guid>https://can-messenger.github.io/blog/docs-site-initialized</guid>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The documentation site is now managed in this repository and deployed to GitHub Pages.]]></description>
+            <content:encoded><![CDATA[<p>The documentation site is now managed in this repository and deployed to GitHub Pages.</p>]]></content:encoded>
+            <category>docs</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>

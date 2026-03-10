@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://can-messenger.github.io/blog</id>
+    <title>Can Messenger Blog</title>
+    <updated>2026-02-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://can-messenger.github.io/blog"/>
+    <subtitle>Can Messenger Blog</subtitle>
+    <icon>https://can-messenger.github.io/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Docs site initialized]]></title>
+        <id>https://can-messenger.github.io/blog/docs-site-initialized</id>
+        <link href="https://can-messenger.github.io/blog/docs-site-initialized"/>
+        <updated>2026-02-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The documentation site is now managed in this repository and deployed to GitHub Pages.]]></summary>
+        <content type="html"><![CDATA[<p>The documentation site is now managed in this repository and deployed to GitHub Pages.</p>]]></content>
+        <category label="docs" term="docs"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
