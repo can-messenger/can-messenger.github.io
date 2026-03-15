@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcan_messenger_docs=self.webpackChunkcan_messenger_docs||[]).push([[8121],{8070(s){s.exports=JSON.parse('{"tags":[{"label":"docs","permalink":"/blog/tags/docs","count":1},{"label":"docusaurus","permalink":"/blog/tags/docusaurus","count":1}]}')}}]);
